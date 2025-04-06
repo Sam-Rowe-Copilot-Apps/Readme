@@ -13,3 +13,8 @@ The code is in the repos of this org and available for you to take a look at aft
 ## Comments and Feedback
 
 If you have any requests please open an [issue](https://github.com/Sam-Rowe-Copilot-Apps/Readme/issues) on this repo.
+
+## Repos
+
+- [HTML and CSS apps](https://github.com/Sam-Rowe-Copilot-Apps/HTMLandCSSApps)
+- [Python apps](https://github.com/Sam-Rowe-Copilot-Apps/PythonApps)
